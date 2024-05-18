@@ -5,7 +5,8 @@
 
 1. Clone the repo  
    ```terminal
-    git clone "https://github.com/GJaswin/image-recognition-python/" ```
+    git clone "https://github.com/GJaswin/image-recognition-python/"
+    ```
 2. (Optional) Create a Python Virtual Environment  
    ```terminal
    python -m venv /path/to/venv
