@@ -18,7 +18,7 @@
    ```terminal
    pip install -r requirements.txt
    ```
-4.  To execute the python notebook `img_recognition.ipynb`, create a Jupyter Notebook server  
+4. To execute the python notebook `img_recognition.ipynb`, create a Jupyter Notebook server  
      
    ```terminal
    jupyter notebook
