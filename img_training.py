@@ -9,6 +9,8 @@ from tensorflow.keras.preprocessing.image import load_img, img_to_array, ImageDa
 from tensorflow.keras import layers 
 from tensorflow.keras import Sequential 
 from tensorflow.keras.utils import to_categorical
+os.getenv('XLA_FLAGS')
+os.getenv('TF_FORCE_GPU_ALLOW_GROWTH')
 
 # Checking TensorFlow version
 print(tf.__version__)
