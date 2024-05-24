@@ -36,7 +36,7 @@ if input_image is not None:
 
 else:
     st.subheader(":gray[Upload an image to get started]", anchor = False)
-    st.write("### This AI Model supports detection of 5 types of flowers: ", anchor = False)
+    st.write("### This AI Model supports detection of 5 types of flowers: ")
     # List of flowers
     '''
      - **Lilly**
