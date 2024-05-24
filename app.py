@@ -9,7 +9,7 @@ with open('flowers.json','r') as file:
 flowers = list(data.keys())
 
 st.header(":green[AI Flower Identifier]", divider = 'rainbow')
-input_image=st.file_uploader("")
+input_image=st.file_uploader("", label_visibility="collapsed")
 
 if input_image is not None:
     st.image(input_image, use_column_width = "auto")
