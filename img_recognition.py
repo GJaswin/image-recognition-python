@@ -58,7 +58,7 @@ class SelfAttention(layers.Layer):
 
 custom_objects = {"SelfAttention": SelfAttention}
 with keras.saving.custom_object_scope(custom_objects):
-    model = load_model('./models/flower_detectionv4.keras')
+    model = load_model('flower_detection.keras')
 
 print(model.summary())
     

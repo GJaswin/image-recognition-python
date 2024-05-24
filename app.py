@@ -20,7 +20,7 @@ if input_image is not None:
             st.subheader(":orange[{}]".format(flower), anchor = False)
 
             st.write(f"**Scientific Name:** *{data[flowers[class_no]]['sci_name']}*")
-            st.write(f"**Family:**   *{data[flowers[class_no]]['family']}*")
+            st.write(f"**Family:** *{data[flowers[class_no]]['family']}*")
             st.write(data[flowers[class_no]]['desc'])
 
 
