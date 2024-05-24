@@ -1,0 +1,27 @@
+{
+    "Lily": {
+        "family": "Liliaceae",
+        "sci_name": "Lilium",
+        "desc": "Lilium is a genus of herbaceous flowering plants growing from bulbs, all with large and often prominent flowers. They are the true lilies. Lilies are a group of flowering plants which are important in culture and literature in much of the world. Most species are native to the Northern Hemisphere and their range is temperate climates and extends into the subtropics. Many other plants have \"lily\" in their common names, but do not belong to the same genus and are therefore not true lilies."
+    },
+    "lotus": {
+        "family": "Nelumbonaceae",
+        "sci_name": "Nelumbo nucifera",
+        "desc": "Nelumbo nucifera, also known as sacred lotus, Indian lotus, or simply lotus, is one of two extant species of aquatic plant in the family Nelumbonaceae. It is sometimes colloquially called a water lily, though this more often refers to members of the family Nymphaeaceae. Lotus plants are adapted to grow in the flood plains of slow-moving rivers and delta areas. Stands of lotus drop hundreds of thousands of seeds every year to the bottom of the pond."
+    },
+    "orchid": {
+        "family": "Orchidaceae",
+        "sci_name": "Orchidaceae",
+        "desc": "Orchids are plants that belong to the family Orchidaceae , a diverse and widespread group of flowering plants with blooms that are often colourful and fragrant. Orchids are cosmopolitan plants that are found in almost every habitat on Earth except glaciers. The world's richest diversity of orchid genera and species is found in the tropics."
+    },
+    "sunflower": {
+        "family": "Asteraceae",
+        "sci_name": "Helianthus",
+        "desc": "Helianthus is a genus comprising about 70 species of annual and perennial flowering plants in the daisy family Asteraceae commonly known as sunflowers. Except for three South American species, the species of Helianthus are native to North America and Central America. The best-known species is the common sunflower (Helianthus annuus). This and other species, notably Jerusalem artichoke (H. tuberosus), are cultivated in temperate regions and some tropical regions, as food crops for humans, cattle, and poultry, and as ornamental plants. The species H. annuus typically grows during the summer and into early fall, with the peak growth season being mid-summer."
+    },
+    "tulip": {
+        "family": "Liliaceae",
+        "sci_name": "Tulipa",
+        "desc": "Tulips are spring-blooming perennial herbaceous bulbiferous geophytes in the Tulipa genus. Tulip flowers are usually large, showy, and brightly coloured, generally red, orange, pink, yellow, or white. They often have a different coloured blotch at the base of the tepals, internally. Because of a degree of variability within the populations and a long history of cultivation, classification has been complex and controversial. The tulip is a member of the lily family, Liliaceae, along with 14 other genera, where it is most closely related to Amana, Erythronium, and Gagea in the tribe Lilieae."
+    }
+}

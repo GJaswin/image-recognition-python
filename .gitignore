@@ -1,3 +1,6 @@
 *.jpg
 *.keras
 /outputs
+__*
+*.h5
+/.archive
